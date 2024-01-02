@@ -15,6 +15,6 @@ int main()
        	count=i;
 	   }
 	}
-	k=count;
-	printf("%d ",k);
-}	
+	printf("%d ",count);
+}
+	
